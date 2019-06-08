@@ -1,0 +1,40 @@
+# Site settings
+title:          Carlo's Blog
+description:    "My Personal Blog"
+baseurl:        "/blog"
+url:            "https://carlo-jacobs.com"
+mathjax: true
+
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
+
+# Author
+author:
+  name:         Carlo Jacobs
+  url:          https://carlo-jacobs.com
+  email:        carlormjacobs@gmail.com
+
+# Build settings
+markdown:       kramdown
+include:
+  - _pages
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+# permalink:      /:title
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+# Excludes
+exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]

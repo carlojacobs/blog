@@ -1,0 +1,17 @@
+---
+layout: post
+title: "On Internet Privacy"
+author: "Carlo Jacobs"
+---
+
+# On Internet Privacy
+
+Mark Zuckerberg was recently called before the Senate to answer questions about the Cambridge Analytica scandal that took place early this year. Even though his responses seemed quite robotic and orchestrated at times and some senators didn't fully understand the mechanics of his social media giant, the hearing, which was quite frustrating to watch, served a purpose beyond simply clarifying the situation around the mysterious data leak. It opened the internet's eyes to its biggest weakness. Privacy.
+
+The amount of data that flows through the internet every year is beyond what any of us can imagine. This year, global IP traffic from cloud data centres has already reached 10.6 zettabytes. Yes, zettabytes. That's 10^27 bytes or about 3 quintillion iPhones, give or take. Not surprisingly, this great amount of data has been gaining the attention of organizations and businesses for the past few decades, and for good reason. In 2018 alone, big data and business analytical companies made 166 billion USD analysing and trading data regarding a variety of different fields, one of which being internet traffic. This high economic potential has made it extremely tempting for such companies to try and gain as much valuable information as possible, even if this means violating other people's privacy from time to time.
+
+Social media companies are at the centre of internet growth, people express their thoughts and share their feelings on these technological behemoths, a primary example being Facebook. We provide these companies with our personal information and grant them permission to use it. The big question is; what do they do with it? From a distance, the Facebooks activities surrounding your personal information seem to be rather innocent, but upon closer inspection, a few things come to light. For instance, Facebook keeps track of the sites you visit, even the ones that they do not own or host. They do this using tiny little Facebook like buttons not visible to our eyes, but still capable of detecting your presence on the website. This data is then used to train various algorithms such as those that recommend advertisements for you. This sort of suspicious data mining has caused a lot of mistrust among people using the internet.
+
+And for good reason, these activities do not appear to be legal. However, they are all fully justified by the terms of service put forth by these companies. These terms of service are properly presented to the user as well. And we accept them. I, therefore, believe that anyone who has accepted them has no right whatsoever to complain about what is being done with their data. However, the number of services and platforms available on the internet, each with their own terms of service, of course, makes for a risky environment. We simply do not read these long documents before clicking the 'I agree' button. Most of us don't have the time to do this. It is therefore imperative that regulations are updated to protect us from these potential threats. We have fallen into the rabbit hole of 'signing up' and 'logging in' without even thinking about it and data companies exploit this blindness.
+
+Of course, we could try to motivate people to read these agreements before actually agreeing but this would most likely be very ineffective. The situation is paradoxical, we cannot legally force companies to account for our ignorance. Although that is exactly what the world is trying to do…
