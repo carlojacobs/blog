@@ -4,8 +4,6 @@ title: "On Internet Privacy"
 author: "Carlo Jacobs"
 ---
 
-# On Internet Privacy
-
 Mark Zuckerberg was recently called before the Senate to answer questions about the Cambridge Analytica scandal that took place early this year. Even though his responses seemed quite robotic and orchestrated at times and some senators didn't fully understand the mechanics of his social media giant, the hearing, which was quite frustrating to watch, served a purpose beyond simply clarifying the situation around the mysterious data leak. It opened the internet's eyes to its biggest weakness. Privacy.
 
 The amount of data that flows through the internet every year is beyond what any of us can imagine. This year, global IP traffic from cloud data centres has already reached 10.6 zettabytes. Yes, zettabytes. That's 10^27 bytes or about 3 quintillion iPhones, give or take. Not surprisingly, this great amount of data has been gaining the attention of organizations and businesses for the past few decades, and for good reason. In 2018 alone, big data and business analytical companies made 166 billion USD analysing and trading data regarding a variety of different fields, one of which being internet traffic. This high economic potential has made it extremely tempting for such companies to try and gain as much valuable information as possible, even if this means violating other people's privacy from time to time.
