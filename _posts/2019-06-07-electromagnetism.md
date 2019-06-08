@@ -13,6 +13,7 @@ $$
 {\displaystyle {\begin{aligned}t'&=\gamma \left(t-{\frac {vx}{c^{2}}}\right)\\x'&=\gamma \left(x-vt\right)\\y'&=y\\z'&=z\end{aligned}}}
 \end{equation}
 $$
+</div>
 
 where $\left(t, x, y, z\right)$ and $\left(t^\prime, x^\prime, y^\prime, z^\prime\right)$ are the coordinates of an event in two frames, where the primed frame is seen from the unprimed frame as moving with speed $v$ along the x-axis, $c$ is the speed of light, and ${\displaystyle \gamma =\textstyle \left({\sqrt {1-{\frac {v^{2}}{c^{2}}}}}\right)^{-1}}$ is the Lorentz factor.
 
