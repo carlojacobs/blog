@@ -189,6 +189,7 @@ From this equation we can deduce, just like Einstein did, that a magnetic field,
 ## References
 Susskind, L., & Friedman, A. (2018). Special Relativity and Classical Field Theory: The Theoretical Minimum. Penguin Books, Limited.
 
+
 ***
 
 [^1]: We can leave out the summation symbols because of the Einstein sum convention.
